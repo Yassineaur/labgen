@@ -1,6 +1,6 @@
 import AnimatedBackground from './components/AnimatedBackground';
 import { useState } from 'react';
-import { Zap, Sun, Moon, BarChart, FileSearch, Sparkles } from 'lucide-react';
+import { Zap, Sun, Moon} from 'lucide-react';
 import { useTheme } from './hooks/useTheme';
 import PasteModal from './components/PasteModal';
 import DemoSequence from './components/DemoSequence';
